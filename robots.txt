@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://savingscalculator.github.io/sitemap.xml
